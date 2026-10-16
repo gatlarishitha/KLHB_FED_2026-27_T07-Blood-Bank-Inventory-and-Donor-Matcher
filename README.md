@@ -28,12 +28,36 @@ The **Blood Bank Inventory and Donor Matcher** is a simple system designed to he
 
 ## Setup Instructions
 
-Setup instructions will be added as the project development progresses.
 
-## Execution Instructions
+1. Install Java JDK on your system.
+2. Clone or download this repository.
+3. Open the project in VS Code, Eclipse, or IntelliJ IDEA.
+4. Configure the Java environment.
+5. Compile and run the Java program.
+6. Follow the application instructions to manage blood bank inventory and match potential blood donors.
 
-Execution instructions will be added as the project development progresses.
+**Requirements:** Java JDK 8 or later and a Java IDE.
 
-## Current Phase Status
 
-Phase 1 – Project setup and initial documentation
+## ▶️ Execution Instructions
+
+1. Open the project in a Java IDE or terminal.
+2. Ensure Java JDK is installed and configured.
+3. Compile the Java source files.
+4. Run the main Java class to start the application.
+5. Follow the on-screen instructions to manage blood bank inventory and donor details.
+6. Check blood availability and identify potential donors based on blood group compatibility.
+
+### Example Commands
+
+```bash
+javac Main.java
+java Main
+```
+
+**Note:** Replace `Main.java` with your actual Java filename if it is different. These commands assume a standalone Java program.
+  
+
+  ## Current Phase Status
+  A Java-based Blood Bank Inventory and Donor Matcher system that manages donor records, tracks blood stock, matches potential donors based on blood group compatibility, and processes blood requests. Developed using Core Java and Object-Oriented Programming concepts.
+
